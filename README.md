@@ -1,4 +1,5 @@
 # MovieBox
+
 ![mb2](https://user-images.githubusercontent.com/111918966/233815524-7a69024b-9ece-45d2-88ef-b4fe74f6a00e.png)
 
 `Análise e Desenvolvimento de Sistemas`
@@ -9,16 +10,18 @@
 
 Esta sendo desenvolvido um projeto para que as pessoas consigam publicar, classificar e debater com os outros usuários sobre filmes.
 
+oiii
+
 ## Integrantes
 
-* Gabriel Oliveira
-* Guilherme Henrique 
-* Israel Moreira
-* Cesar Augusto
+- Gabriel Oliveira
+- Guilherme Henrique
+- Israel Moreira
+- Cesar Augusto
 
 ## Orientador
 
-* Viviâne De Almeida Tôrres
+- Viviâne De Almeida Tôrres
 
 ## Instruções de utilização
 
@@ -42,13 +45,12 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Hospedagem
 
-* Hostinger
+- Hostinger
 
 # Armazenamento do Código-Fonte
 
-* <a href="src/README.md">Código Fonte</a>
+- <a href="src/README.md">Código Fonte</a>
 
 # Armazenamento da Apresentação
 
-* <a href="presentation/README.md">Apresentação da solução</a>
-
+- <a href="presentation/README.md">Apresentação da solução</a>
